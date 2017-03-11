@@ -1,0 +1,12 @@
+/******************home.js**********************/
+.rate{font-weight: bold;font-size:20px;color: #e09015}
+
+/**************app.js********************/
+.srch input{padding:0 12px;height:24px;}
+.srch button{padding:0;height:24px;width:60px;}
+.srch{margin-right: 10px}
+
+
+
+/************detail.js**************/
+.detail .rate{font-weight: bold;font-size:40px;color: #e09015}
